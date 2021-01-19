@@ -1,0 +1,32 @@
+body{
+    background-image: url("images/bg1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    display: flex;
+    color: beige;
+    font-size: 250%;
+    text-align: center;
+    margin-left: 38%;
+}
+.input{
+    margin-left: 43%;
+    margin-top: 20%;
+}
+
+.button{
+    margin-left: 48%;
+    margin-top: 5%;
+    background-image: linear-gradient(to right, rgb(255, 136, 0),rgb(255, 208, 0));
+    padding: 10px;
+    border: 1px solid white;
+    font-size: medium;
+    font-family: cursive;
+    border-radius: 10px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
